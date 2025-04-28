@@ -17,3 +17,11 @@ A simple Streamlit app template for you to modify!
    ```
    $ streamlit run streamlit_app.py
    ```
+/insurance_prediction_app/
+    |- app.py
+    |- pages/
+        |- 1_Business_and_Data_Presentation.py
+        |- 2_Data_Visualization.py
+        |- 3_Model_and_Prediction.py
+    |- requirements.txt
+    |- README.md
